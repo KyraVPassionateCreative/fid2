@@ -1,0 +1,33 @@
+body {
+background-color: #EDC88B;
+font-family: sans-serif;
+}
+
+h1 {
+text-align: center;
+font-family: serif;
+font-weight: normal;
+text-transformation: uppercase;
+border-bottom: 5px solid #FF9B51;
+margin-top: 30px;
+}
+
+h2 {
+text-align: center;
+color: #E08353;
+font-size; 1em;
+border-bottom: 5px solid #FF9B51;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+}
